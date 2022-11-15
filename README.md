@@ -8,13 +8,16 @@
   <a href="https://opensource.org/licenses/MIT"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-brightgreen"></a>
 </div>
 
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Gabriel-Node" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+
 ## Summary
 
 1. [About the project](#general-information)
 
-2. [Class Diagram](#class-diagram)
-
-3. [Application Requirements](#requirements)
+2. [Main features](#features)
 
 4. [Enviroment Setup](#enviroment-setup)
 
@@ -31,6 +34,14 @@
 10. [License](#license)
 
 ## ⁉ What's Natours? <a name="general-information" />
+
+It's a web application designed for persons who loves travels and going on tour vacations where 
+they can check on tours and book the liked ones through Stripe. It's was inicially build to 
+to contribute with my Career portfolio as a personal project 🚀.
+
+## 📌 Project requeriments <a name="features" />:
+
+The main business rules for this API can be found on this [link](./docs/bussiness_rules.md).
 
 ## 📚 Docs <a name="docs" />:
 
