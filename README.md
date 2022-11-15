@@ -39,7 +39,7 @@ to contribute with my Career portfolio as a personal project 🚀.
 
 ## 👀 Overview  <a name="overview" />
 
-![Preview-Screens](./docs/video.mp4)
+![Preview-Screens](./docs/video.gif)
 
 ## 📌 Main features <a name="features" />:
 
