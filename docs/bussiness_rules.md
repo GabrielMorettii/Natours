@@ -1,4 +1,5 @@
-- Users
+Users
+
   - Users can sign up with the application.
   - Users can log into the application.
   - Users can log out of the appication.
@@ -9,7 +10,7 @@
   - A user can be either a regular user or an admin or a lead-guide or a guide.
   - When you sign up, you are a regular user by default.
 
-- Tours
+Tours
 
   - Tours can be created by an admin user or a lead-guide.
   - Tours can be seen by every user.
