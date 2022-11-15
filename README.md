@@ -39,7 +39,7 @@ to contribute with my Career portfolio as a personal project 🚀.
 
 ## 👀 Overview  <a name="overview" />
 
-![Preview-Screens](https://github.com/GabrielMorettii/Natours/blob/master/docs/gif.gif)
+![Preview-Screens](./docs/video.mp4)
 
 ## 📌 Main features <a name="features" />:
 
