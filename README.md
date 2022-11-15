@@ -17,29 +17,31 @@
 
 1. [About the project](#general-information)
 
-2. [Main features](#features)
+2. [Overview](#overview)
 
-4. [Enviroment Setup](#enviroment-setup)
+3. [Main features](#features)
 
-5. [Tests](#tests)
+4. [Docs](#docs)
 
-6. [Docs](#docs)
+5. [Enviroment Setup](#enviroment-setup)
 
-7. [Tools](#tools)
+6. [Tools](#tools)
 
-8. [Providers](#providers)
+7. [Contribution](#contributing)
 
-9. [Contribution](#contributing)
-
-10. [License](#license)
+8. [License](#license)
 
 ## ⁉ What's Natours? <a name="general-information" />
 
-It's a web application designed for persons who loves travels and going on tour vacations where 
+It's a web application designed for persons who loves travels and going on tour vacations, where 
 they can check on tours and book the liked ones through Stripe. It's was inicially build to 
 to contribute with my Career portfolio as a personal project 🚀.
 
-## 📌 Project requeriments <a name="features" />:
+## 👀 Overview  <a name="overview" />
+
+![Preview-Screens](https://github.com/GabrielMorettii/Natours/blob/master/docs/gif.gif)
+
+## 📌 Main features <a name="features" />:
 
 The main business rules for this API can be found on this [link](./docs/bussiness_rules.md).
 
@@ -48,6 +50,23 @@ The main business rules for this API can be found on this [link](./docs/bussines
 All API endpoints have been documented using Postman. To view just access the URL below
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/491e3d3d4201354f0ca0?action=collection%2Fimport)
+
+## 💻 Enviroment Setup <a name="enviroment-setup" />:
+
+```
+# Application
+
+$ git clone https://github.com/GabrielMorettii/Natours.git
+
+$ npm i
+
+** Set your env variables **
+
+$ npm run build:js
+
+$ npm run dev (for development)
+$ npm run start:prod (for production)
+```
 
 ## 🔧 Built With <a name="tools" />:
 
@@ -81,4 +100,4 @@ Thank you!
 
 ## 🔑 License <a name="license" />:
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/GabrielMorettii/Amatronic/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
